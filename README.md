@@ -7,6 +7,11 @@ SCTPscan is a tool for scaning networks for SCTP enabled machines.These typicall
 SCTPscan - Copyright (C) 2002 - 2009 Philippe Langlois.
 SCTPscan comes with ABSOLUTELY NO WARRANTY; for details read the LICENSE or COPYING file.
 
+
+DOWNLOAD
+
+git clone https://github.com/L-iot/sctpscan.git
+
 USAGE:  sctpscan [options]
 
 Options:
