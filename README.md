@@ -1,6 +1,6 @@
 Introduction
 
-SCTPscan is a tool for scaning networks for SCTP enabled machines.These typically are Telecom oriented machines carrying SS7 and SIGTRAN over IP. Using SCTPscan, you can find entry points to Telecom networks. This is especially useful when doing pentests on Telecom Core Network infrastructures. SCTP is also used in high-performance networks (internet2).
+SCTPscan is a tool for scaning networks for Stream Control Transmission Protocol enabled machines.These typically are Telecom oriented machines carrying SS7 and SIGTRAN over IP.By using SCTPscan, you can find entry points to Telecom networks. This is especially useful when doing pentests on Telecom Core Network infrastructures. SCTP is also used in high-performance networks (internet2).
 
 
 
